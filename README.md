@@ -5,8 +5,13 @@
 
 
 2. 随便选一门课，同样的方式找到addGouwuche请求，右键copy as fetch(nodejs)
-![alt text](image.png)
+<img src="./imgs/image2.png" width="50%">
 
 3. 打开VSCode，新建一个js文件，将刚刚复制的代码粘贴进去，修改其中的cookie和body 字段中的 p_id，保存。
 
-4. 到点执行
+4. 把代码拷进f12-console中执行
+
+Note: 带有定时器的代码样例，请查看scripts.js文件。修改定时器和课程id即可。
+
+
+
