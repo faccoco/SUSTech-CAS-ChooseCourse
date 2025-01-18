@@ -1,4 +1,5 @@
 # SUSTech-CAS-ChooseCourse
+(给个star谢谢喵~)
 
 1. 打开全校课表，筛选出自己想要的课。按照图示找到课程的p_id。(没有看到queryRwxxcxList的话重新点一下查询)
 ![alt text](./imgs/image.png)
