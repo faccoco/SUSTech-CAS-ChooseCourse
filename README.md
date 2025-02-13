@@ -8,7 +8,7 @@
 2. 随便选一门课，同样的方式找到addGouwuche请求，右键copy as fetch(nodejs)
 <img src="./imgs/image2.png" width="50%">
 
-3. 打开VSCode，新建一个js文件，将刚刚复制的代码粘贴进去，修改其中的cookie和body 字段中的 p_id，保存。
+3. 打开VSCode（或者随便哪个编辑器），新建一个js文件，将刚刚复制的代码粘贴进去，修改其中的cookie和body 字段中的 p_id，保存。
 
 4. 把代码拷进f12-console中执行
 
